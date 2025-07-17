@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Riya",
+    "balance": 4440000
+  },
+  {
+    "name": "Rashi",
+    "balance": 7860000
+  }
+]

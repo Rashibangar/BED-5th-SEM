@@ -1,0 +1,5 @@
+{"user":"Rashi","product":"Samsung","amount":70000}
+{"user":"Rashi","product":"Samsung","amount":70000}
+{"user":"Riya","product":"Samsung","amount":70000}
+{"user":"Riya","product":"Iphone 16","amount":100000}
+{"user":"Riya","product":"Oneplus","amount":90000}
